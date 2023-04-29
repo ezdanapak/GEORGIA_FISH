@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "fish",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32638" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "name": "kaparWina", "name_ENG": "Common bream", "name_GEO": "კაპარჭინა" }, "geometry": { "type": "Point", "coordinates": [ 261374.808300018310547, 4690595.155600070953369 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "name": "blika", "name_ENG": "Blicca bjoerkna", "name_GEO": "ჩვეულებრივი ბლიკა" }, "geometry": { "type": "Point", "coordinates": [ 337224.259799957275391, 4689199.726099967956543 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "name": "lurja", "name_ENG": null, "name_GEO": null }, "geometry": { "type": "Point", "coordinates": [ 421264.346700191497803, 4687987.294700145721436 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "name": "TvalTeTra", "name_ENG": "Ballerus sapa", "name_GEO": "თეთრთვალა/თვალთეთრა" }, "geometry": { "type": "Point", "coordinates": [ 511163.895299911499023, 4686870.334700107574463 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "name": null, "name_ENG": null, "name_GEO": null }, "geometry": { "type": "Point", "coordinates": [ 483259.991199970245361, 4700156.722499847412109 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "name": null, "name_ENG": null, "name_GEO": null }, "geometry": { "type": "Point", "coordinates": [ 525155.718100070953369, 4696782.311600208282471 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "name": "nafota", "name_ENG": "Rutilus", "name_GEO": "ნაფოტა" }, "geometry": { "type": "Point", "coordinates": [ 282208.39769983291626, 4642614.988999843597412 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "name": "farfwiTela", "name_ENG": "Rudd", "name_GEO": "ფარფლწითელა" }, "geometry": { "type": "Point", "coordinates": [ 362780.112199783325195, 4641161.004499912261963 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "name": "vobla", "name_ENG": "Caspian roach", "name_GEO": "ვობლა/კასპ.ნაფოტა" }, "geometry": { "type": "Point", "coordinates": [ 472892.421000003814697, 4639467.848999977111816 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "name": "tarani", "name_ENG": "Rutilus heckelii", "name_GEO": "ტარანი" }, "geometry": { "type": "Point", "coordinates": [ 532065.015999794006348, 4638311.385499954223633 ] } }
+]
+}
